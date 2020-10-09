@@ -19,6 +19,10 @@ We took random combinations of loops and created 4 types of layout:
 
 The first two types were invented for Ramires et al. 2020; the other two were borrowed from Smith and Goto 2018.
 
+Here's an illustration of each type of layout:
+
+![Illustration of layout types (sparse, dense, factorial and composed)](layout_examples.png)
+
 ## Requirements
 
 You need a copy of FSLD10K: https://zenodo.org/record/3967852
